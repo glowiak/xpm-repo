@@ -1,2 +1,3 @@
 minecraft-launcher
 mypal-legacy
+firefox
