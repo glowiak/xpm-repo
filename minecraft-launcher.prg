@@ -1,7 +1,8 @@
 Name=Minecraft (Official)
 Id=minecraft-launcher
+Icon=https://i.gyazo.com/thumb/1000/a4abc5fdb965d1b97db38453012efc73-png.png
 Version=1.19.1
-AlVersion=0
+Alversion=0
 Publisher=Mojang
 Developer=Markus Persson
 InstallType=DownloadAndRun
