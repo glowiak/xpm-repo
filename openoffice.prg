@@ -1,0 +1,9 @@
+Name=OpenOffice
+Version=4.1.10
+Alversion=0
+Id=openoffice
+Icon=http://icons.iconarchive.com/icons/ncrow/mega-pack-2/256/OpenOffice-Writer-icon.png
+Developer=OpenOffice
+Publisher=OpenOffice
+InstallType=DownloadAndRun
+Installer=http://archive.org/download/apache-open-office-4.2.0-win-x-86-install-en-us-1821724/Apache_OpenOffice_4.2/Apache_OpenOffice_4.2.0_Win_x86_install_en-US_1821724.exe
