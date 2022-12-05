@@ -2,3 +2,4 @@ minecraft-launcher
 mypal-legacy
 firefox
 thunderbird
+qbittorrent
