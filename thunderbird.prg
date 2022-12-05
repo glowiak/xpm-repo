@@ -1,0 +1,9 @@
+Name=Thunderbird
+Id=thunderbird
+Version=52.9.1
+Alversion=0
+Icon=https://logonoid.com/images/thunderbird-logo.png
+Publisher=Mozilla
+Developer=Mozilla
+InstallType=DownloadAndRun
+Installer=http://ftp.mozilla.org/pub/thunderbird/releases/52.9.1/win32/en-US/Thunderbird%20Setup%2052.9.1.exe
