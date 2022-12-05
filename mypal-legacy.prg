@@ -1,7 +1,8 @@
 Name=Mypal (Legacy)
 Id=mypal-legacy
+Icon=https://img.biblprog.org.ua/programsimages/mypal/mypal_icon.png
 Version=29.3.0
-AlVersion=0
+Alversion=0
 Publisher=Feodor2
 Developer=Feodor2
 InstallType=DownloadAndRun
