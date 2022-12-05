@@ -3,3 +3,4 @@ mypal-legacy
 firefox
 thunderbird
 qbittorrent
+openoffice
