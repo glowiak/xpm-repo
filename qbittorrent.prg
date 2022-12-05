@@ -1,0 +1,9 @@
+Name=qBittorrent
+Id=qbittorrent
+Version=2.3.18
+Alversion=0
+Icon=https://p1.hiclipart.com/preview/751/1012/37/10-icon-simple-style-png-icns-qbittorrent-icon-png-icon.jpg
+Publisher=qBittorrent
+Developer=qBittorrent
+InstallType=DownloadAndRun
+Installer=https://build.openvpn.net/downloads/releases/openvpn-install-2.3.18-I602-i686.exe
